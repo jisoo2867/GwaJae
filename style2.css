@@ -1,0 +1,35 @@
+#wrap {
+	border:1px solid black;
+	width: 800px;
+	height:1040px;
+	margin: 0 auto;
+}
+
+body {
+	font-family: 'Slabo 27px', serif;
+	text-transform: justify;
+}
+
+#Contents_text {
+	margin-top: 200px;
+	text-align:center;
+}
+
+#logo {
+	margin-top: 100px;
+}
+
+embed {
+	loop:infinite;
+}
+
+p {
+	line-height: 30px;
+}
+
+#link {
+    
+    position:relative;
+    left: 1130px;
+    bottom: 1000px;
+  }

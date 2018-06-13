@@ -1,0 +1,15 @@
+ *{font-family: 'Slabo 27px', serif;}
+
+p{font-size:18px; line-height: 13px;}
+img{width: 100%;}
+
+#wrapper{width: 800px; height: 1040px; margin: 0 auto; padding: 50px;}
+#wrapper_content{width: 700px; height: 940px; margin: 0 auto; }
+#txt_left{float: left; margin-right: 47px;}
+#footer{margin-top: 50px;}
+#footer p{text-align: center;}
+embed {
+	width:0px;
+	height:0px;
+	loop:infinite;
+}
